@@ -1,0 +1,11 @@
+{
+    "rect_dict" : {
+        "idle" : ["0,0,142,142", "142,0,142,142", "284,0,142,142", "426,0,142,142"]
+    },
+    "animation_name_list" : [
+        "idle"
+    ],
+    "animation_speed_dict" : {
+        "idle" : 0.15
+    }
+}
